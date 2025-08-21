@@ -17,12 +17,12 @@ tema de cada equipe.
 ## A Documentação do Projeto Integrador deve possuir :
 - Introdução (Proposta do trabalho + Objetivo + Contextualização breve do assunto)
 
--Desenvolvimeto:
--- Backlog: Product Backlog e Sprint Backlog;
--- Estórias;
--- Protótipos;
--- Diagrama de classe;
--- Diagrama de Casos de Uso.
+## Desenvolvimeto:
+- Backlog: Product Backlog e Sprint Backlog
+- Estórias
+- Protótipos
+- Diagrama de classe
+- Diagrama de Casos de Uso.
 
 - Implementação no Netbeans.
 - Manual do Software.
